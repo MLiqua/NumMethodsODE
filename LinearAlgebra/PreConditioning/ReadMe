@@ -1,0 +1,3 @@
+Preconditioners transform the system into ones that converge faster.
+
+Purpose: reducts the condtion number of the matrix to speed up convergence
